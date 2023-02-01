@@ -1,4 +1,4 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
+baseURL: https://quiet-haupia-45111d.netlify.app # todo: change site url.
 title: Eternity # todo: change site name.
 defaultContentLanguage: 'es'
 theme: eternity
